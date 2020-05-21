@@ -26,5 +26,8 @@ The following questions were addressed in this project:
   * A line graph was created to visualize the table
 *The mean and median were calculated to summarize the data more meaningfully, and determine if there is more variability with successful or unsuccessful campaigns.
 
-## Oucome by Category
+## Outcome by Category
 ![](outcome_by_category.PNG)
+
+## Outcome by Sub-Category
+![](outcome_by_subcategory.PNG)
