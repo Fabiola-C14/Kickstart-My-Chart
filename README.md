@@ -25,3 +25,6 @@ The following questions were addressed in this project:
 * A pivot table was created to analyze the data by state and filter by parent category and years.
   * A line graph was created to visualize the table
 *The mean and median were calculated to summarize the data more meaningfully, and determine if there is more variability with successful or unsuccessful campaigns.
+
+## Oucome by Category
+![](outcome_by_category.PNG)
